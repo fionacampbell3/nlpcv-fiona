@@ -1,0 +1,7 @@
+tf-venv/
+.DS_store
+Workshop_1_Logistic_and_Softmax_Regression.ipynb
+Workshop_3_Solution_Convolutional_Neural_Networks_for_MNIST_and_CIFAR_Classification_Tasks (1).ipynb
+sign_mnist_train.csv
+sign_mnist_test.csv
+.vscode/settings.json
